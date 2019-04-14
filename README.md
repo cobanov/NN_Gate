@@ -1,18 +1,19 @@
 # NN_Gate
 
+[Proje Sayfası](https://github.com/cobanov/NN_Gate/blob/master/NN_gates.ipynb)
+
 Bir sinir ağları nasıl işlem yapar, mantık kapılarını bastiçe sinir ağlarıyla nasıl çözebilirsiniz.
 
-![NN_Gate](https://cdn-images-1.medium.com/max/800/1*BvvTV2I6QIKJtr6tQNFs_g.jpeg)
-![Perceptron](https://cdn-images-1.medium.com/max/800/1*wO1Nm5ve_Nffo7oQhfxLew.png)
+![NN_Gate](https://cdn-images-1.medium.com/max/500/1*BvvTV2I6QIKJtr6tQNFs_g.jpeg)
+![Perceptron](https://cdn-images-1.medium.com/max/500/1*wO1Nm5ve_Nffo7oQhfxLew.png)
 
 ## Getting Started
 
 Bu proje mantık kapılarını sinir ağlarıyla nasıl çözebileceğinizi ve bunu basitçe nasıl gerçekleştirebileceğinizi anlatır.
 
-
 Ayrıca kapsamlı rehbere Deep Learning Türkiye Medium sayfasından ulaşabilirsiniz.
 
-[Rehber Linki](https://medium.com/deep-learning-turkiye/)
+[Proje Blog Yazısı ve Kapsamlı Anlatım Rehberi Linki](https://medium.com/deep-learning-turkiye/)
 
 ### Prerequisites
 
