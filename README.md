@@ -13,7 +13,7 @@ Bu proje mantık kapılarını sinir ağlarıyla nasıl çözebileceğinizi ve b
 
 Ayrıca kapsamlı rehbere Deep Learning Türkiye Medium sayfasından ulaşabilirsiniz.
 
-[Proje Blog Yazısı ve Kapsamlı Anlatım Rehberi Linki](https://medium.com/deep-learning-turkiye/)
+[Proje Blog Yazısı ve Kapsamlı Anlatım Rehberi Linki](https://medium.com/deep-learning-turkiye/bir-sinir-a%C4%9F%C4%B1n%C4%B1-ka%C4%9F%C4%B1da-d%C3%B6kelim-4bb644fa8840)
 
 ### Prerequisites
 
